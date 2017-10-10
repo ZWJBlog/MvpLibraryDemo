@@ -1,1 +1,1 @@
-include ':app', ':mvplibrary', ':navigationlayout'
+include ':app', ':mvplibrary', ':navigationlayout', ':demomutiprogress'

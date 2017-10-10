@@ -42,7 +42,9 @@ public class NavigationLayout extends LinearLayout implements View.OnClickListen
     }
 
     /**
-     * @param list_bitmap
+     * wwwwwww
+     *
+     * @param list_bitmap 图片集合
      * @param context
      */
     public void setListImageView(List<Bitmap> list_bitmap, Context context) {
