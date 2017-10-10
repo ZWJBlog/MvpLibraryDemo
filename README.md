@@ -1,4 +1,3 @@
 # MvpLibraryDemo
 简单MVP框架Library
-MVP基础框架，使用的话还需扩展
-compile 'com.github.User:Repo:Tag'
+MVP基础框架，使用的话还需扩展 
